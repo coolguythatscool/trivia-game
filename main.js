@@ -6,17 +6,38 @@ var countStartNumber = 30;
 var questions = [
     
     {
-        question: "What was the first full length CGI movie?",
-        answers: ["A Bug's Life", "Monsters Inc.", "Toy Story", "The Lion King"],
-        correctAnswer: "Toy Story",
-        image: "assets/Toy Story p7.gif"
+        question: "What is the 18th letter in the alphabet?",
+        answers: ["R", "M", "S", "Σ"],
+        correctAnswer: "R",
+        image: "assets/1.gif"
     },
 
     {
-        question: "Which of these is NOT a name of one of the Spice Girls?",
-        answers: ["Sporty Spice", "Hot Spice", "Scary Spice", "Posh Spice"],
-        correctAnswer: "Hot Spice",
-        image: "assets/spice girls p7.gif"
+        question: "Which of these letters is Zeta",
+        answers: ["Σ", "Ζ", "Δ", "Ξ"],
+        correctAnswer: "Ζ",
+        image: "assets/2.gif"
+    },
+
+    {
+        question: "Pluto is technically a moon of Neptune",
+        answers: ["True", "False"],
+        correctAnswer: "False",
+        image: "assets/3.gif"
+    },
+
+    {
+        question: "Where is the Sistine Chapel located?",
+        answers: ["Rome", "Las Vegas", "Vatican City"],
+        correctAnswer: "Vatican City",
+        image: "assets/4.gif"
+    },
+
+    {
+        question: "A tortoise can feel through its shell",
+        answers: ["True", "False"],
+        correctAnswer: "True",
+        image: "assets/5.gif"
     }
 
 
